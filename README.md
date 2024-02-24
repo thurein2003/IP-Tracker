@@ -11,8 +11,8 @@ The IP Address Tracker is a tool that allows users to track IP addresses or URLs
 - Web-based interface for easy access
 
 ## CLI Interface Design
+![image](https://github.com/thurein2003/IP-Tracker/assets/105615488/98376c37-1729-4bed-8d19-0a12edb27afd)
 
-![CLI Interface](https://github.com/thurein2003/IP-Tracker/assets/105615488/68d4965d-adb5-465a-95a8-4e7162d8ecd1)
 
 ## Web Interface Design
 
