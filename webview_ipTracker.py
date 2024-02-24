@@ -25,12 +25,12 @@ def index():
     }}
     .container {{
         width: 50%;
-        margin: 0 auto;
+        margin: 10 auto;
         text-align: center;
         padding: 20px;
         border: 1px solid white;
         border-radius: 10px;
-        margin-top: 100px;
+        margin-top: 200px;
     }}
     </style>
     </head>
@@ -75,7 +75,7 @@ def result():
     }}
     .container {{
         width: 50%;
-        margin: 0 auto;
+        margin: 10 auto;
         text-align: center;
         padding: 20px;
         border: 1px solid white;
