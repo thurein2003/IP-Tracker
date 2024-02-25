@@ -22,8 +22,7 @@ spider = """
 
 
 print(f"{Fore.YELLOW}{spider}")
-print(f"{Fore.GREEN}[*] {Style.RESET_ALL}Running your Python...
-
+print(f"{Fore.GREEN}[*] {Style.RESET_ALL}Running your Python...")
 def printDis(ip):
     ans = DbIpCity.get(ip, api_key="free")
     print(f"IP address : {ans.ip_address}")
